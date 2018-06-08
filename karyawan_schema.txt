@@ -1,0 +1,4 @@
+https://i.imgur.com/zL5UWbC.png
+
+
+Skema ini menjelaskan apabila secara keseluruhan tipa karyawan dihubungkan ke satu departemen, dilihat secara terhubungnya PK karyawan tengan PK depratement dan didalam depratment sendiri terdapat manager. Lanjut,dengan PK karyawan dihubungkan dengan proyek yg dilambangkan dengan panah /one to many/.
